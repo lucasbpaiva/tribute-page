@@ -1,3 +1,11 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
 .container {
     margin: 0;
     padding: 10px;
@@ -23,7 +31,7 @@ figcaption {
 
 h1 {
     color: #f1be32;
-    font-size: min(5vw, 1.2em);
+    font-size: 4rem;
     text-align: center;
   }
 
@@ -41,5 +49,5 @@ main {
     margin: auto;
     text-align: justify;
     text-indent: 2em;
-    max-width: 85%;
+    max-width: 90%;
 }
